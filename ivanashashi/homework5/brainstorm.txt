@@ -1,7 +1,0 @@
-1. gene filtering, cryptography, math modeling, weather projections, data analysis for health predictions
-2.Climate Data Online Search(find a pattern in the data to forecast weather) , WHO data set (dataset has information for each patient's personal information and medical data, whether or not they have had heart disease before. This will help me find trends and analyze the data) Khan Academy or YouTube vidoes(to learn how to do this)
-3. Data analysis lists/dictionaries, github, condiotonals, making functions 
-4. Make a script that filters genes from a NASA OSD dataset about mice and make a call that retrieves information to the user
-Realistic, Download a heart disease dataset using the python skills listed to list summary of the trends to predict 
-
-
